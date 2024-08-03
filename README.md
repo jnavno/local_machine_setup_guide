@@ -33,8 +33,7 @@ Suggested folder structure on your local machine:
 
 ## Automate the process for simplicity
 
-To automate the setup process and create the previous folder structure, use the provided script [Link Text](URL)
-:
+To automate the setup process and create the previous folder structure, download the provided [script](https://github.com/jnavno/local_machine_setup_guide/blob/master/setup_repositories.sh) into your local machine:
 
 1. **Make the Script Executable**
 
