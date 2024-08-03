@@ -15,32 +15,29 @@ mkdir -p "$BASE_DIR/arduino_projects"
 
 # Clones IoT projects
 cd "$BASE_DIR/iot_projects"
-git clone git@github.com:username/esp32_sensor_network.git
-git clone git@github.com:username/raspberry_pi_home_automation.git
-git clone git@github.com:username/arduino_mqtt_gateway.git
+git clone git@github.com:jnavno/esp8266_based_soil_monitoring.git
+git clone git@github.com:jnavno/pixhawk_payload_weather_station.git
+git clone git@github.com:jnavno/vibration_detection.git
+git clone git@github.com:uverd/uverd_firmware.git
+git clone git@github.com:uverd/uverd_webapp.git
+git clone git@github.com:uverd/meshtastic-firmware.git
 
 # Clones personal websites
 cd "$BASE_DIR/websites/personal_projects"
-git clone git@github.com:username/personal_portfolio.git
+git clone git@github.com:jnavno/andamunda_landing.git
 git clone git@github.com:username/company_website.git
 git clone git@github.com:username/blog.git
 
 # Clones client websites
 cd "$BASE_DIR/websites/client_projects"
-git clone git@github.com:username/client1_website.git
-git clone git@github.com:username/client2_ecommerce.git
-git clone git@github.com:username/client3_blog.git
 
 # Clones web apps
 cd "$BASE_DIR/web_apps"
-git clone git@github.com:username/e_commerce_platform.git
-git clone git@github.com:username/crm_system.git
-git clone git@github.com:username/social_media_app.git
+git clone git@github.com:jnavno/my_flutter_app.git
 
 # Clones Arduino projects
 cd "$BASE_DIR/arduino_projects"
-git clone git@github.com:username/temperature_logger.git
-git clone git@github.com:username/smart_light_system.git
-git clone git@github.com:username/robotic_arm_experiment.git
+git clone git@github.com:jnavno/arduino_projects.git
+
 
 echo "Setup completed successfully."
