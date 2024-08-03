@@ -4,7 +4,7 @@ This guide will help you set up your local machine with a reproduceable folder s
 
 ## Folder Structure
 
-Suggested folder structure on your local machine:
+Suggested folder structure on the local machine (project names are sugestions):
 ~~~
 
 /home/anda/Documents/repositories/
