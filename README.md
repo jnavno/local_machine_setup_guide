@@ -1,13 +1,13 @@
 # Local Machine Setup Guide
 
-This guide will help you set up your local machine with a reproduceable folder structure and clone repositories from GitHub to ensure a consistent environment across machines.
+This guide helps you set up a reproducible folder structure on your local machine and clone GitHub repositories for a consistent environment across machines.
 
 ## Folder Structure
 
 Suggested folder structure on the local machine (project names are sugestions):
 ~~~
 
-/home/anda/Documents/repositories/
+/home/username/Documents/repositories/
 ├── iot_projects/
 │   ├── esp32_sensor_network/
 │   ├── raspberry_pi_home_automation/
